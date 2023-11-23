@@ -6,4 +6,6 @@ matplotlib
 seaborn 
 scikit-learn
 argparse
-omm
+simtk.unit
+simtk.openmm
+simtk.openmm.app 
