@@ -7,5 +7,4 @@ seaborn
 scikit-learn
 argparse
 simtk.unit
-simtk.openmm
-simtk.openmm.app 
+openmm
