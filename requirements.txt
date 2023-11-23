@@ -3,7 +3,7 @@ io
 math
 os
 random
-six.moves
+six
 tensorflow
 tensorflow_hub
 tensorflow_datasets
