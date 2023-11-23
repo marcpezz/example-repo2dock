@@ -9,6 +9,6 @@ tensorflow_hub
 tensorflow_datasets
 numpy 
 matplotlib
-seaborn as sns
+seaborn
 sklearn
 time
