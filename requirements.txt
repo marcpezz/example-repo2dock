@@ -4,4 +4,4 @@ tensorflow_datasets
 numpy
 matplotlib
 seaborn 
-sklearn 
+scikit-learn
