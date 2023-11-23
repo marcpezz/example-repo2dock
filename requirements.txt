@@ -1,14 +1,1 @@
-collections
-io
-math
-os
-random
-six
 tensorflow
-tensorflow_hub
-tensorflow_datasets
-numpy 
-matplotlib
-seaborn
-sklearn
-time
